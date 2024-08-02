@@ -1,3 +1,5 @@
+// nuxt.config.ts
+
 export default defineNuxtConfig({
   // https://github.com/nuxt-themes/alpine
   extends: '@nuxt-themes/alpine',
